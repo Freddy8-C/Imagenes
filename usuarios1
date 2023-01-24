@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Leanne Graham",
-        "photo":"https://github.com/Freddy8-C/Imagenes/blob/main/fotos_Pm/f1.jpg?raw=true",
+        "photo":"https://raw.githubusercontent.com/Freddy8-C/Imagenes/main/fotos_Pm/f1.jpg",
         "address": {
             "street": "Kulas Light"
           },
@@ -21,7 +21,7 @@
     {
         "id": 2,
         "name": "Miguel Cortez",
-        "photo":"https://github.com/Freddy8-C/Imagenes/blob/main/fotos_Pm/f2.jpg?raw=true",
+        "photo":"https://raw.githubusercontent.com/Freddy8-C/Imagenes/main/fotos_Pm/f2.jpg",
         "address": {
             "street": "Kulas Light"
           },
@@ -39,7 +39,7 @@
     {
         "id": 3,
         "name": "Andres García",
-        "photo":"https://github.com/Freddy8-C/Imagenes/blob/main/fotos_Pm/f3.jpg?raw=true",
+        "photo":"https://raw.githubusercontent.com/Freddy8-C/Imagenes/main/fotos_Pm/f3.jpg",
         "address": {
             "street": "Kulas Light"
           },
@@ -57,7 +57,7 @@
     {
         "id": 4,
         "name": "Francisco Graham",
-        "photo":"https://github.com/Freddy8-C/Imagenes/blob/main/fotos_Pm/f4.jpg?raw=true",
+        "photo":"https://raw.githubusercontent.com/Freddy8-C/Imagenes/main/fotos_Pm/f4.jpg",
         "address": {
             "street": "Kulas Light"
           },
@@ -75,7 +75,7 @@
     {
         "id": 5,
         "name": "Manuel Morales",
-        "photo":"https://github.com/Freddy8-C/Imagenes/blob/main/fotos_Pm/foto1.jpg?raw=true",
+        "photo":"https://raw.githubusercontent.com/Freddy8-C/Imagenes/main/fotos_Pm/foto1.jpg",
         "address": {
             "street": "Kulas Light"
           },
@@ -93,7 +93,7 @@
     {
         "id": 6,
         "name": "Santiago Sarango",
-        "photo":"https://github.com/Freddy8-C/Imagenes/blob/main/fotos_Pm/foto2.jpg?raw=true",
+        "photo":"https://raw.githubusercontent.com/Freddy8-C/Imagenes/main/fotos_Pm/foto2.jpg",
         "address": {
             "street": "Kulas Light"
           },
@@ -111,7 +111,7 @@
     {
         "id": 7,
         "name": "Joshua",
-        "photo":"https://github.com/Freddy8-C/Imagenes/blob/main/fotos_Pm/m1.jpg?raw=true",
+        "photo":"https://raw.githubusercontent.com/Freddy8-C/Imagenes/main/fotos_Pm/m1.jpg",
         "address": {
             "street": "Kulas Light"
           },
@@ -129,7 +129,7 @@
     {
         "id": 8,
         "name": "Carolina Graham",
-        "photo":"https://github.com/Freddy8-C/Imagenes/blob/main/fotos_Pm/m2.jpg?raw=true",
+        "photo":"https://raw.githubusercontent.com/Freddy8-C/Imagenes/main/fotos_Pm/m2.jpg",
         "address": {
             "street": "Kulas Light"
           },
@@ -147,7 +147,7 @@
     {
         "id": 9,
         "name": "Mariana Yanez",
-        "photo":"https://github.com/Freddy8-C/Imagenes/blob/main/fotos_Pm/m3.jpg?raw=true",
+        "photo":"https://raw.githubusercontent.com/Freddy8-C/Imagenes/main/fotos_Pm/m3.jpg",
         "address": {
             "street": "Kulas Light"
           },
@@ -165,7 +165,7 @@
     {
         "id": 10,
         "name": "Jhoselyn Caceres",
-        "photo":"https://github.com/Freddy8-C/Imagenes/blob/main/fotos_Pm/m4.jpg?raw=true",
+        "photo":"https://raw.githubusercontent.com/Freddy8-C/Imagenes/main/fotos_Pm/m4.jpg",
         "address": {
             "street": "Kulas Light"
           },
