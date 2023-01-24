@@ -1,0 +1,184 @@
+[
+    {
+        "id": 1,
+        "name": "Leanne Graham",
+        "photo":"https://github.com/Freddy8-C/Imagenes/blob/main/fotos_Pm/f1.jpg?raw=true",
+        "address": {
+            "street": "Kulas Light"
+          },
+        "email": "leanne@est.ups.edu.ec",
+        "profesion":"Ingeniera Ambiental",
+        "username": "Leanne",
+        "contact":{
+            "home":"02-622478",
+            "cell":"0961587556"
+            }, 
+        "link-facebook": "https://es-la.facebook.com/",
+        "link-twitter":"https://twitter.com/?lang=es",
+        "link-linkedin":"https://ec.linkedin.com/"
+    }, 
+ 
+    {
+        "id": 2,
+        "name": "Miguel Cortez",
+        "photo":"https://github.com/Freddy8-C/Imagenes/blob/main/fotos_Pm/f2.jpg?raw=true",
+        "address": {
+            "street": "Kulas Light"
+          },
+        "email": "miguel@est.ups.edu.ec",
+        "profesion":"Ingeniera Ambiental",
+        "username": "Miguel",
+        "contact":{
+            "home":"02-622478",
+            "cell":"0961587556"
+            }, 
+        "link-facebook": "https://es-la.facebook.com/",
+        "link-twitter":"https://twitter.com/?lang=es",
+        "link-linkedin":"https://ec.linkedin.com/"
+    }, 
+    {
+        "id": 3,
+        "name": "Andres García",
+        "photo":"https://github.com/Freddy8-C/Imagenes/blob/main/fotos_Pm/f3.jpg?raw=true",
+        "address": {
+            "street": "Kulas Light"
+          },
+        "email": "andres@est.ups.edu.ec",
+        "profesion":"Ingeniera Ambiental",
+        "username": "Andres",
+        "contact":{
+            "home":"02-622478",
+            "cell":"0961587556"
+            }, 
+        "link-facebook": "https://es-la.facebook.com/",
+        "link-twitter":"https://twitter.com/?lang=es",
+        "link-linkedin":"https://ec.linkedin.com/"
+    }, 
+    {
+        "id": 4,
+        "name": "Francisco Graham",
+        "photo":"https://github.com/Freddy8-C/Imagenes/blob/main/fotos_Pm/f4.jpg?raw=true",
+        "address": {
+            "street": "Kulas Light"
+          },
+        "email": "francisco@est.ups.edu.ec",
+        "profesion":"Ingeniera Ambiental",
+        "username": "Francisco",
+        "contact":{
+            "home":"02-622478",
+            "cell":"0961587556"
+            }, 
+        "link-facebook": "https://es-la.facebook.com/",
+        "link-twitter":"https://twitter.com/?lang=es",
+        "link-linkedin":"https://ec.linkedin.com/"
+    }, 
+    {
+        "id": 5,
+        "name": "Manuel Morales",
+        "photo":"https://github.com/Freddy8-C/Imagenes/blob/main/fotos_Pm/foto1.jpg?raw=true",
+        "address": {
+            "street": "Kulas Light"
+          },
+        "email": "manuel@est.ups.edu.ec",
+        "profesion":"Ingeniera Ambiental",
+        "username": "Manuel",
+        "contact":{
+            "home":"02-622478",
+            "cell":"0961587556"
+            }, 
+        "link-facebook": "https://es-la.facebook.com/",
+        "link-twitter":"https://twitter.com/?lang=es",
+        "link-linkedin":"https://ec.linkedin.com/"
+    }, 
+    {
+        "id": 6,
+        "name": "Santiago Sarango",
+        "photo":"https://github.com/Freddy8-C/Imagenes/blob/main/fotos_Pm/foto2.jpg?raw=true",
+        "address": {
+            "street": "Kulas Light"
+          },
+        "email": "santiago@est.ups.edu.ec",
+        "profesion":"Ingeniera Ambiental",
+        "username": "Santiago",
+        "contact":{
+            "home":"02-622478",
+            "cell":"0961587556"
+            }, 
+        "link-facebook": "https://es-la.facebook.com/",
+        "link-twitter":"https://twitter.com/?lang=es",
+        "link-linkedin":"https://ec.linkedin.com/"
+    }, 
+    {
+        "id": 7,
+        "name": "Joshua",
+        "photo":"https://github.com/Freddy8-C/Imagenes/blob/main/fotos_Pm/m1.jpg?raw=true",
+        "address": {
+            "street": "Kulas Light"
+          },
+        "email": "joshua@est.ups.edu.ec",
+        "profesion":"Ingeniera Ambiental",
+        "username": "Joshua",
+        "contact":{
+            "home":"02-622478",
+            "cell":"0961587556"
+            }, 
+        "link-facebook": "https://es-la.facebook.com/",
+        "link-twitter":"https://twitter.com/?lang=es",
+        "link-linkedin":"https://ec.linkedin.com/"
+    }, 
+    {
+        "id": 8,
+        "name": "Carolina Graham",
+        "photo":"https://github.com/Freddy8-C/Imagenes/blob/main/fotos_Pm/m2.jpg?raw=true",
+        "address": {
+            "street": "Kulas Light"
+          },
+        "email": "carolina@est.ups.edu.ec",
+        "profesion":"Ingeniera Ambiental",
+        "username": "Carolina",
+        "contact":{
+            "home":"02-622478",
+            "cell":"0961587556"
+            }, 
+        "link-facebook": "https://es-la.facebook.com/",
+        "link-twitter":"https://twitter.com/?lang=es",
+        "link-linkedin":"https://ec.linkedin.com/"
+    }, 
+    {
+        "id": 9,
+        "name": "Mariana Yanez",
+        "photo":"https://github.com/Freddy8-C/Imagenes/blob/main/fotos_Pm/m3.jpg?raw=true",
+        "address": {
+            "street": "Kulas Light"
+          },
+        "email": "mariana@est.ups.edu.ec",
+        "profesion":"Ingeniera Ambiental",
+        "username": "Mariana",
+        "contact":{
+            "home":"02-622478",
+            "cell":"0961587556"
+            }, 
+        "link-facebook": "https://es-la.facebook.com/",
+        "link-twitter":"https://twitter.com/?lang=es",
+        "link-linkedin":"https://ec.linkedin.com/"
+    }, 
+    {
+        "id": 10,
+        "name": "Jhoselyn Caceres",
+        "photo":"https://github.com/Freddy8-C/Imagenes/blob/main/fotos_Pm/m4.jpg?raw=true",
+        "address": {
+            "street": "Kulas Light"
+          },
+        "email": "jhoselyn@est.ups.edu.ec",
+        "profesion":"Ingeniera Ambiental",
+        "username": "Jhoselyn",
+        "contact":{
+            "home":"02-622478",
+            "cell":"0961587556"
+            }, 
+        "link-facebook": "https://es-la.facebook.com/",
+        "link-twitter":"https://twitter.com/?lang=es",
+        "link-linkedin":"https://ec.linkedin.com/"
+    } 
+    
+  ]
